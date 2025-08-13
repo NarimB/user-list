@@ -1,0 +1,8 @@
+@import "../../styles/variables";
+
+.layout-content {
+  padding: 25px;
+  @media screen and (min-width: $md) {
+    padding: 50px;
+  }
+}
